@@ -1,0 +1,57 @@
+div1{
+    background-color: rgba(146, 164, 9, 0.836);
+     /* padding:5px 10px 25px 40px; */
+      display: flex; 
+}
+.logo{
+
+    width: 100px;
+    margin-left: 50px;
+}
+p{
+    padding-left: 50px;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(7, 73, 142);
+    
+}
+ p1{
+   padding-left: 20%;
+   padding-top: 20px;
+   font-size: 20px;
+   font-weight: bold;
+   color: brown;
+ }
+
+   /* .form-control{
+
+    width: 70%;
+     display: inline-block;  
+    margin-top: 30px;
+    margin-left: 20px;
+
+   }  
+.form-radio{
+    border-radius: 60px;
+    margin-left: 30px;
+} */
+.container4{
+    border: 5px sloid black;
+    border-style: dashed;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    width: 60%;
+    background:linear-gradient(to bottom, #93d9f0 0%, #ff99cc 100%);  
+}
+.picture{
+    height: 100px;
+    width: 100px;
+    float: right;
+}
+h3{
+    text-align: center;
+    margin-top: 10px;
+}
+
+
